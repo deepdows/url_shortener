@@ -1,1 +1,0 @@
-{"id":"2b3a9c03-690c-4dff-9c1b-84bbadac8070","space":8580,"runtime":"python3.7","name":"backend","path":"fey20a","project":"a07ohqt8","account":"144798365827","region":"eu-central-1","deps":["fastapi","uvicorn","SQLAlchemy","PyMySQL"],"envs":null,"public":true,"log_level":"debug","cron":""}
